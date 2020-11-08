@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lesson2</string>
+    <string name="register_hint">Email or Phone</string>
+    <string name="register_hint_password">Password</string>
+    <string name="register_btn_login">LOG IN</string>
+    <string name="sign_up_for_facebook">Sign Up for Facebook</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="image_helper_margin">image_helper</string>
+</resources>
